@@ -1,0 +1,2 @@
+This was a sample project to create a connection with Google's Firebase. The program creates shapes to be uploaded to Firebase and their position can be either translated through Firebase and projected onto the game or changed through the game and updated onto Firebase.
+If you want to test it just create a firebase and change the path written as https://aidanharringtonunity.firebaseio.com/ to what yours would be. Don't forget to change the google services json file to yours.

@@ -1,0 +1,1 @@
+This is a game replicating Snakes and Ladders which is played online with another player. To test it, just create a clone of it using ParrelSync.
